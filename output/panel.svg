@@ -1,0 +1,82 @@
+<svg width="81.78" height="67" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the mask -->
+  <mask id="cutout">
+    <rect width="100%" height="100%" fill="white" /> <!-- Fills the entire area with white -->
+
+    <!-- Centered cut-out rectangle with border radius -->
+    
+  </mask>
+
+  <!-- Draw the black rectangle with the mask applied -->
+  <rect width="100%" height="100%" fill="black" mask="url(#cutout)" />
+
+    
+  <!-- Background Rectangle -->
+  <rect
+    x="13"
+    y="11"
+    width="26"
+    height="45"
+    rx="4.86"
+    ry="4.86"
+    fill="black"
+    stroke="gray"
+    stroke-width="0.5"
+  />
+  <text
+    x="26"
+    y="16.8"
+    font-size="4"
+    fill="#FF0000"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+  >BOTTOM</text>
+  <text
+    x="26"
+    y="21.984"
+    font-size="4"
+    fill="#FF0000"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+  >LIGHTS</text>
+  <circle r="9.4065" cx="26" cy="33.5" fill="white" />
+  <g transform="translate(22, 45.45325) scale(0.3333333333333333)">
+    <path fill="#0000FF" d="M10.6 22q-1.275 0-1.937-.763T8 19.5q0-.65.288-1.263t.887-1.012q.55-.35.888-.9t.462-1.175l-.3-.15q-.15-.075-.275-.175l-2.3.825q-.425.15-.825.25T6 16q-1.575 0-2.788-1.375T2 10.6q0-1.275.763-1.937T4.475 8q.65 0 1.275.288t1.025.887q.35.55.9.887t1.175.463l.15-.3q.075-.15.175-.275l-.825-2.3q-.15-.425-.25-.825t-.1-.8q0-1.6 1.375-2.813T13.4 2q1.275 0 1.938.763T16 4.475q0 .65-.288 1.275t-.887 1.025q-.55.35-.887.9t-.463 1.175l.3.15q.15.075.275.175l2.3-.85q.425-.15.813-.237T17.975 8Q20 8 21 9.675t1 3.725q0 1.275-.8 1.938T19.425 16q-.625 0-1.213-.288t-.987-.887q-.35-.55-.9-.887t-1.175-.463l-.15.3q-.075.15-.175.275l.825 2.3q.15.4.25.763t.1.762q.025 1.625-1.35 2.875T10.6 22m1.4-8.5q.625 0 1.062-.437T13.5 12t-.437-1.062T12 10.5t-1.062.438T10.5 12t.438 1.063T12 13.5"/>
+  </g>
+
+    
+  <!-- Background Rectangle -->
+  <rect
+    x="42.78"
+    y="11"
+    width="26"
+    height="45"
+    rx="4.86"
+    ry="4.86"
+    fill="black"
+    stroke="gray"
+    stroke-width="0.5"
+  />
+  <text
+    x="55.78"
+    y="16.8"
+    font-size="4"
+    fill="#FFFF00"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+  >BOTTOM</text>
+  <text
+    x="55.78"
+    y="21.984"
+    font-size="4"
+    fill="#FFFF00"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+  >LIGHTS</text>
+  <circle r="9.4065" cx="55.78" cy="33.5" fill="white" />
+  <g transform="translate(51.78, 45.45325) scale(0.3333333333333333)">
+    <path fill="#0000FF" d="M10.6 22q-1.275 0-1.937-.763T8 19.5q0-.65.288-1.263t.887-1.012q.55-.35.888-.9t.462-1.175l-.3-.15q-.15-.075-.275-.175l-2.3.825q-.425.15-.825.25T6 16q-1.575 0-2.788-1.375T2 10.6q0-1.275.763-1.937T4.475 8q.65 0 1.275.288t1.025.887q.35.55.9.887t1.175.463l.15-.3q.075-.15.175-.275l-.825-2.3q-.15-.425-.25-.825t-.1-.8q0-1.6 1.375-2.813T13.4 2q1.275 0 1.938.763T16 4.475q0 .65-.288 1.275t-.887 1.025q-.55.35-.887.9t-.463 1.175l.3.15q.15.075.275.175l2.3-.85q.425-.15.813-.237T17.975 8Q20 8 21 9.675t1 3.725q0 1.275-.8 1.938T19.425 16q-.625 0-1.213-.288t-.987-.887q-.35-.55-.9-.887t-1.175-.463l-.15.3q-.075.15-.175.275l.825 2.3q.15.4.25.763t.1.762q.025 1.625-1.35 2.875T10.6 22m1.4-8.5q.625 0 1.062-.437T13.5 12t-.437-1.062T12 10.5t-1.062.438T10.5 12t.438 1.063T12 13.5"/>
+  </g>
+
+  
+</svg>
